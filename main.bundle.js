@@ -24882,7 +24882,7 @@
         const mu = "kodub"
           , gu = !1
           , vu = "https://snowy-mountain-8e34.htmlunblockedgames.workers.dev/"
-          , displaySiteUrl = "https://sites.google.com/view/gx-gamescrack"
+          , displaySiteUrl = ""
           , wu = fu.l$.r;
         ( () => {
             if ("undefined" == typeof window)
@@ -40156,7 +40156,7 @@
             case "electron":
             case "capacitor":
             case "jest":
-                e = "https://sites.google.com/view/gx-gamescrack";
+                e = "";
                 break;
             case "itch":
                 e = "https://kodub.itch.io/polytrack";
@@ -41839,9 +41839,9 @@
         AN = function(e) {
             TN(this, iN, "f").innerHTML = "";
             const t = document.createElement("a");
-            t.href = "https://sites.google.com/view/gx-gamescrack",
+            t.href = "",
             t.target = "_blank",
-            t.textContent = "https://sites.google.com/view/gx-gamescrack - " + e.get("Version") + " " + bu,
+            t.textContent = " - " + e.get("Version") + " " + bu,
             TN(this, iN, "f").appendChild(t);
             const n = document.createElement("a");
             n.href = "https://opengameart.org/content/sci-fi-theme-1",
@@ -41850,9 +41850,9 @@
             TN(this, iN, "f").appendChild(n),
             TN(this, iN, "f").appendChild(document.createElement("br"));
             const i = document.createElement("a");
-            i.href = "https://sites.google.com/view/gx-gamescrack",
+            i.href = "",
             i.target = "_blank",
-            i.textContent = "Build 4",
+            i.textContent = "",
             TN(this, iN, "f").appendChild(i)
         }
         ,
@@ -41951,7 +41951,7 @@
                 {
                     _N(this, nN, document.createElement("a"), "f"),
                     TN(this, nN, "f").className = "discord-link",
-                    TN(this, nN, "f").href = "https://sites.google.com/view/gx-gamescrack",
+                    TN(this, nN, "f").href = "",
                     TN(this, nN, "f").target = "_blank",
                     TN(this, eN, "f").appendChild(TN(this, nN, "f"));
                     const e = document.createElement("img");
