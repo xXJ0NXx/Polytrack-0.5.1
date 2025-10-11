@@ -24882,7 +24882,7 @@
         const mu = "kodub"
           , gu = !1
           , vu = "https://snowy-mountain-8e34.htmlunblockedgames.workers.dev/"
-          , displaySiteUrl = "https://sites.google.com/view/poly-track"
+          , displaySiteUrl = "https://sites.google.com/view/gx-gamescrack"
           , wu = fu.l$.r;
         ( () => {
             if ("undefined" == typeof window)
@@ -40156,7 +40156,7 @@
             case "electron":
             case "capacitor":
             case "jest":
-                e = "https://sites.google.com/view/poly-track";
+                e = "https://sites.google.com/view/gx-gamescrack";
                 break;
             case "itch":
                 e = "https://kodub.itch.io/polytrack";
@@ -41839,18 +41839,18 @@
         AN = function(e) {
             TN(this, iN, "f").innerHTML = "";
             const t = document.createElement("a");
-            t.href = "https://sites.google.com/view/poly-track",
+            t.href = "https://sites.google.com/view/gx-gamescrack",
             t.target = "_blank",
-            t.textContent = "https://sites.google.com/view/poly-track - " + e.get("Version") + " " + bu,
+            t.textContent = "https://sites.google.com/view/gx-gamescrack - " + e.get("Version") + " " + bu,
             TN(this, iN, "f").appendChild(t);
             const n = document.createElement("a");
             n.href = "https://opengameart.org/content/sci-fi-theme-1",
             n.target = "_blank",
-            n.textContent = 'OpenGameArt.org "Sci-fi Theme" by Maou (CC-BY 4.0)',
+            n.textContent = 'Ripped By Jon Stearns',
             TN(this, iN, "f").appendChild(n),
             TN(this, iN, "f").appendChild(document.createElement("br"));
             const i = document.createElement("a");
-            i.href = "https://sites.google.com/view/poly-track",
+            i.href = "https://sites.google.com/view/gx-gamescrack",
             i.target = "_blank",
             i.textContent = "Build 4",
             TN(this, iN, "f").appendChild(i)
@@ -41951,7 +41951,7 @@
                 {
                     _N(this, nN, document.createElement("a"), "f"),
                     TN(this, nN, "f").className = "discord-link",
-                    TN(this, nN, "f").href = "https://sites.google.com/view/poly-track",
+                    TN(this, nN, "f").href = "https://sites.google.com/view/gx-gamescrack",
                     TN(this, nN, "f").target = "_blank",
                     TN(this, eN, "f").appendChild(TN(this, nN, "f"));
                     const e = document.createElement("img");
